@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# 语料 PDF 与项目稿件不入库
+*.pdf
+*.docx
+/proj/
+/frame_in/
